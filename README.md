@@ -1,6 +1,5 @@
-# FTT-Cordova-LP3-N1
-Trabalho de Linguagem de Programação III
+Trabalho de Linguagem de Programação IV
 
 BEATRIZ TORETA PEREIRA 
 RA 081160002
-EC7
+EC8
